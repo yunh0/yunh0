@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Yunh0's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=72&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome!😊&desc=Yunh0's%20GITHUB&fontSize=80&descSize=30&fontAlignY=40&color=auto&fontColor=ffffff)
   
 😃현재 공부중인 백엔드 주니어 개발자입니다.😃
 <br><br>
