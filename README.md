@@ -3,7 +3,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome!😊&desc=Yunh0's%20GITHUB&fontSize=80&descSize=30&fontAlignY=40&color=auto&fontColor=ffffff)
   
-😃현재 공부중인 백엔드 주니어 개발자입니다.😃
+안녕하세요!👋<br><br>
+백엔드 개발자를 꿈꾸는 남윤호입니다.
 <br><br>
 Email : nam100400@naver.com<br>
 Blog : https://velog.io/@nam100400<br><br><br>
@@ -18,6 +19,7 @@ Blog : https://velog.io/@nam100400<br><br><br>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 
 <br><br><br>
 ⛏️<b>Tools</b>⛏️<br>
